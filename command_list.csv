@@ -1,1 +1,108 @@
-history
+    1  c ../
+    2  cd Desktop/
+    3  cd TestGit/
+    4  git clone https://github.com/HannaBazai/HW_10.git
+    5  git config user.name "Hanna Bazai"
+    6  git config user.email "bazayanya@gmail.com"
+    7  git config -m user.name "Hanna Bazai"
+    8  git config user.name "Hanna Bazai"
+    9  cd /c/Users/ASUS/Desktop/GitHub
+   10  git clone https://github.com/HannaBazai/HW_10.git
+   11  git cofig user.name "Hanna Bazai"
+   12  git help
+   13  git config user.email 'bazayanya@gmail.com'
+   14  clear
+   15  touch text_ignore.txt
+   16  git status
+   17  cd HW
+   18  cd HW_10/
+   19  git config user.name 'Hanna Bazai'
+   20  git config user.email 'bazayanya@gmail.com'
+   21  git status
+   22  ls -l
+   23  git config --global user.name 'Hanna Bazai'
+   24  git config --global user.email "bazayanya@gmail.com"
+   25  clea
+   26  clear
+   27  git status
+   28  touch text_ignore.txt
+   29  git status
+   30  clear
+   31  vim gitignore
+   32  cd gitignore
+   33  git status
+   34  git status
+   35  vim gitignore.txt
+   36  vim .gitignore.txt
+   37  git add text_ignore.txt
+   38  git status
+   39  vim .gitignore
+   40  git status
+   41  git add .gitignore
+   42  git commit -m "Firstcommit"
+   43  git status
+   44  clear
+   45  touch main_test.txt
+   46  git add main_test/txt
+   47  git add main_test.txt
+   48  git commit -m "Secondcommit"
+   49  git status
+   50  clear
+   51  git branch
+   52  git checkout -b develop
+   53  git branch
+   54  touch develop_test.txt
+   55  ls -l
+   56  git status
+   57  git add develop_test.txt
+   58  git commit -b "Thirdcommit"
+   59  git status
+   60  git commit -m "Thirdcommit"
+   61  vim develop_test.txt
+   62  git status
+   63  git add develop_test.txt
+   64  git status
+   65  git commit -m "fourthcommit"
+   66  git checkout main
+   67  git marge develop
+   68  git merge develop
+   69  git log
+   70  cd /c/Users/ASUS/Desktop/QAGit
+   71  git clone https://github.com/HannaBazai/HW_10.git
+   72  cd HW_10/
+   73  git config --global user.name "Hanna Bazai"
+   74  git config --global user.email "bazayanya@gmail.com"
+   75  touch text_ignore.txt
+   76  vim .gitignore
+   77  git status
+   78  git add .gitignore
+   79  git commit -m "task1"
+   80  touch main_test.txt
+   81  git status
+   82  git add main_test.txt
+   83  git status
+   84  git commit -m 'task2'
+   85  git checkout develop
+   86  git checkout -b develop
+   87  git branch
+   88  touch develop_test.txt
+   89  git add develop_test.txt
+   90  git commit -m "task"
+   91  vim develop_test.txt
+   92  git status
+   93  git add develop_test.txt
+   94  git status
+   95  git commit -m "task3"
+   96  git checkout main
+   97  git merge develop
+   98  git log
+   99  git add
+  100  git add command_list.cvs
+  101  git add comand_list
+  102  git status
+  103  git add command_list.cvs
+  104  git add command_list.csv
+  105  git status
+  106  git commit -m "task5"
+  107  git push
+  108  history > command_list.csv
